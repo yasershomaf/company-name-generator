@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+form {
+  border: 2px solid gray;
+  display: inline-block;
+  padding: 10px;
+}
+input {
+  margin-bottom: 10px;
+}
+strong {
+  color: blue;
+}
+
